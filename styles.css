@@ -8,7 +8,7 @@
     background-position: center;
     filter: blur(7px);
     
-    height: 135vh;
+    height: 160vh;
     
     top: 0;
     left: 0;
@@ -18,7 +18,7 @@
     z-index: -1;
 }
 
-.conatiner-intro{
+.conatiner-intro {
     margin: 10vh 5vw 0 5vw;
     color: white;
     text-align: center;
@@ -74,6 +74,10 @@
     .background-image {
         height: 100vh;
         background-position: top;
+    }
+    
+    .conatiner-intro {
+        margin-top: 5vh;
     }
     
     .conatiner-intro h1 {
