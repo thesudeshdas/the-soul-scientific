@@ -2,13 +2,13 @@
 
 
 .background-image {
-    background: url('final.png');
+    background: url('bg.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     filter: blur(7px);
     
-    height: 160vh;
+    height: 130vh;
     
     top: 0;
     left: 0;
@@ -77,7 +77,7 @@
     }
     
     .conatiner-intro {
-        margin-top: 5vh;
+        margin-top: 15vh;
     }
     
     .conatiner-intro h1 {
